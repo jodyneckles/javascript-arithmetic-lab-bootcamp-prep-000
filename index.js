@@ -15,7 +15,7 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return n === (a + 1)
+  return n = (a + 1)
 }
 
 /*
